@@ -13,23 +13,23 @@ Bu proje, modern ve duyarlı bir seyahat web sitesi ön yüzü şablonudur.
 
 Aşağıda projenin farklı bölümlerinin ekran görüntüleri bulunmaktadır:
 
-### Travel-1
+### NavBar-HomePage
 ![Travel-1](./ScreenShots/Travel-1.jpg)
 
-### Travel-2
+### Book
 ![Travel-2](./ScreenShots/Travel-2.jpg)
 
-### Travel-3
+### Packages(Only 3 Card in ScreenShot)
 ![Travel-3](./ScreenShots/Travel-3.jpg)
 
-### Travel-4
+### Services
 ![Travel-4](./ScreenShots/Travel-4.jpg)
 
-### Travel-5
+### Gallary
 ![Travel-5](./ScreenShots/Travel-5.jpg)
 
-### Travel-6
+### About Us
 ![Travel-6](./ScreenShots/Travel-6.jpg)
 
-### Travel-7
+### Footer
 ![Travel-7](./ScreenShots/Travel-7.jpg)
