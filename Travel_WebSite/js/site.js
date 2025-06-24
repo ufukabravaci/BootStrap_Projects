@@ -7,13 +7,10 @@ $(document).ready(function() {
         changeContentSpan.fadeOut(800, function() {
             $(this).text(texts[currentIndex]);
             $(this).fadeIn(800);
+            currentIndex = (currentIndex + 1) % texts.length;
         });
 
-        currentIndex = (currentIndex + 1) % texts.length;
     }
-
-    changeContentSpan.text(texts[currentIndex]);
-    currentIndex = (currentIndex + 1) % texts.length;
-
+    changeText();
     setInterval(changeText, 2500);
 });
