@@ -25,7 +25,7 @@ Aşağıda projenin farklı bölümlerinin ekran görüntüleri bulunmaktadır:
 ### Services
 ![Travel-4](./ScreenShots/Travel-4.jpg)
 
-### Gallary
+### Gallery
 ![Travel-5](./ScreenShots/Travel-5.jpg)
 
 ### About Us

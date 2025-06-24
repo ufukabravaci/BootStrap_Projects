@@ -322,26 +322,26 @@ body {
 }
 /* Section Services End */
 
-/* Section Gallary Start */
-.gallary {
+/* Section gallery Start */
+.gallery {
   margin-top: 0px;
   padding: 50px 0;
   background-color: #cbc7bb;
 }
-.gallary .card {
+.gallery .card {
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   cursor: pointer;
   margin-top: 15px;
 }
-.gallary .card img {
+.gallery .card img {
   border-radius: 10px;
   transition: 0.5s;
 }
-.gallary .card img:hover {
+.gallery .card img:hover {
   transform: scale(1.1);
 }
-/* Section Gallary End */
+/* Section gallery End */
 
 /* About Start */
 .about {
