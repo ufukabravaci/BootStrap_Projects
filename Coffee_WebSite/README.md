@@ -28,7 +28,7 @@ Below are screenshots of different sections of the project:
 ![About Us](screenshots/About-us.png)
 
 ### Latest Blogs
-![Latest Blogs](screenshots/Latest-blogs.png)
+![Latest Blogs](screenshots/Latest-Blogs.png)
 
 ### Contact Us
 ![Contact Us](screenshots/Contact-us.png)
