@@ -1,17 +1,17 @@
-# Proje Adı: Travel-Website-Template
+# Travel-Website-Template
 
-Bu proje, modern ve duyarlı bir seyahat web sitesi ön yüzü şablonudur.
+This project is a modern and responsive front-end template designed for a travel company website.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 * HTML
 * CSS
 * jQuery
 * Bootstrap
 
-## Ekran Görüntüleri
+## Screenshots
 
-Aşağıda projenin farklı bölümlerinin ekran görüntüleri bulunmaktadır:
+Below are screenshots of different sections of the project:
 
 ### NavBar-HomePage
 ![Travel-1](./ScreenShots/Travel-1.jpg)
@@ -19,7 +19,7 @@ Aşağıda projenin farklı bölümlerinin ekran görüntüleri bulunmaktadır:
 ### Book
 ![Travel-2](./ScreenShots/Travel-2.jpg)
 
-### Packages(Only 3 Card in ScreenShot)
+### Packages
 ![Travel-3](./ScreenShots/Travel-3.jpg)
 
 ### Services
